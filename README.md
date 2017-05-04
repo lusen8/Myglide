@@ -15,5 +15,5 @@
       `targetSdkVersion`以及`compileSdkVersion`版本是否一致。否则会导致编译错误。
       
    具体glide的使用方法可以参照此文章：
-     [最全面解析Glide用法](www.jianshu.com/p/c3a5518b58b2 "Glide简书")
+     [最全面解析Glide用法] (www.jianshu.com/p/c3a5518b58b2 "Glide简书")
 
